@@ -87,6 +87,12 @@ body {
 	max-height:100%;
 } 
 
+.fotorama {
+	width:75%;
+	height:auto;
+	margin: 0 auto;
+}
+
 .icon {
 	width:64px;
 	height:64px;

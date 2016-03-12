@@ -71,6 +71,27 @@ body {
 	color: #FFF;
 }
 
+.photonav a {
+	color:#FFF;
+	font-weight:700;
+	padding-left: 70px;
+	font-size:16px;
+}
+
+.photonav ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+} 
+
+.photonav li {
+	display: inline;
+}
+
+.photonav a:link {
+    text-decoration: none;
+}
+
 .imagebox {
 	width: 40%;
 	height: 40%;

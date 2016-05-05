@@ -121,6 +121,11 @@ body {
 	display:inline;
 }
 
+a {
+	color:#FFF;
+	text-decoration:none;
+}
+
 .footer {
   /* position: fixed; */
   right: 0;
